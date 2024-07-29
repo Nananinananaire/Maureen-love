@@ -9,7 +9,7 @@ const Prefixes = [
   'ask',
 
   'gpt',
-  'mia',
+  'maureen',
 
   'openai',
 
@@ -27,7 +27,7 @@ module.exports = {
 
     version: '1.0.5',
 
-    author: 'ArYAN', // don't change credits please 🙏🙂
+    author: 'maureen', // don't change credits please 🙏🙂
 
     role: 0,
 
@@ -73,7 +73,7 @@ module.exports = {
 
     if (!question) {
 
-      return message.reply("𝙃𝙞 𝙄'𝙢 𝙈𝙞𝙖 𝙍𝙤𝙣𝙖𝙡𝙙'𝙨 𝙫𝙞𝙧𝙩𝙪𝙖𝙡 𝙖𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩. 𝙒𝙝𝙖𝙩 𝙘𝙖𝙣 𝙞 𝙙𝙤 𝙛𝙤𝙧 𝙮𝙤𝙪 ?🤓");
+      return message.reply("𝙃𝙞 𝙄'𝙢 ☸۝𝙈𝙖𝙪𝙧𝙚𝙚𝙣💖𝙇𝙤𝙫𝙚۝virt𝙪𝙖𝙡 𝙖𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩. 𝙒𝙝𝙖𝙩 𝙘𝙖𝙣 𝙞 𝙙𝙤 𝙛𝙤𝙧 𝙮𝙤𝙪 ?🤓");
 
     }
 
